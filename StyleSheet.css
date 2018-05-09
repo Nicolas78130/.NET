@@ -1,0 +1,99 @@
+﻿body   
+{
+    background-color :tan;
+}
+h1 {
+   text-align : center;
+}
+header{
+    background-color :darkgrey;
+    width :1200px;
+    height : 70px;
+}
+#page {
+    width : 1400px;
+    margin:auto;
+    background-color :darkgrey;
+}
+h1 {
+    font-size : 50px;
+    color:red;
+}
+footer {
+    background-color :darkgrey;
+    height : 70px;
+}
+#Button1 {
+    font-size : 20px;
+}
+#Button2 {
+    font-size : 20px;
+}
+#Button3 {
+    font-size : 20px;
+}
+#Button4 {
+    font-size : 20px;
+}
+#Button5 {
+    font-size : 20px;
+}
+#Button6 {
+    font-size : 20px;
+}
+#Button7 {
+    font-size : 20px;
+}
+#LabelCestTour {
+    font-size : 30px;
+}
+#TourJoueur {
+    font-size : 30px;
+}
+#ThisIsWinner {
+    font-size : 40px;
+    color : red;
+}
+#LabelRejouer {
+    font-size : 30px;
+}
+#ButtonRejouer {
+    font-size : 30px;
+}
+#ButtonPasRejouer {
+    font-size : 30px;
+}
+#ButtonChangeJoueur {
+    font-size : 30px;
+}
+#BtnJ1 {
+    font-size : 15px;
+    background-color : red;
+    color : white;
+}
+#ButtonRecommencer {
+    font-size : 20px;
+}
+#BtnJ2 {
+    font-size : 15px;
+    background-color : blue;
+    color : white;
+}
+#Label1 {
+    font-size : 30px
+}
+#ButtonPasChangeJoueur {
+    font-size : 30px;
+}
+#LabelScore {
+    font-size : 20px;
+}
+#LabelScore2 {
+    font-size : 20px;
+}
+#LabelScoreJ1 {
+    font-size : 20px;
+}
+#LabelScoreJ2 {
+    font-size : 20px;
+}
